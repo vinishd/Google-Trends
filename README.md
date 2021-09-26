@@ -1,4 +1,4 @@
 # Comparing Search Interest with Google Trends
 
 
-Tracked and explored the search data underneath the Kardashian family's fame and made custom plots to find how the most famous Kardashian/Jenner sister has changed over time.
+Analyzed changes in search interest over time by tracking, manipulating, and exploring the search data underneath celebrities' (Kardashian family's) fame and created custom plots to find how the most famous member has changed over time.
